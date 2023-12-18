@@ -8,7 +8,7 @@
 
 
 def swapList(Abcd): # done
-	size = len(newList) #  done  [0 , 1, 2, 3, 4]
+	size = len(newList) #  done  [0 , 1, 2, 3, 4] 
    
 	# Swapping     // 
 	temp = newList[0]   # The temp value is 12.
